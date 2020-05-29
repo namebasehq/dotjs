@@ -3,6 +3,11 @@ This repo is for the .JS TLD on the Handshake DNS protocol. You can buy a .JS do
 
 You can use a .JS domain for non-javascript related websites, but .JS is meant to serve the JavaScript community. Hence why JS package maintainers can claim their domains for free.
 
+## Who runs this?
+Currently, [Namebase.io](https://namebase.io) owns and operates .JS on Handshake. Proceeds from .JS domain sales will be used to support Handshake development and the effort to make .JS a resource for the JavaScript community. 
+
+Our goal is to create a separate governance committee who can run this TLD. An early suggestion would be getting under Mozilla.org's non-profit umbrella, but we're open to other suggestions as well. 
+
 ## Claimed reserved domains
 No reserved domains have been claimed yet.
 
