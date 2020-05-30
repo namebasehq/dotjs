@@ -9,7 +9,7 @@ Currently, [Namebase.io](https://namebase.io) owns and operates .JS on Handshake
 Our goal is to create a separate governance committee who can run this TLD. An early suggestion would be getting under Mozilla.org's non-profit umbrella, but we're open to other suggestions as well. 
 
 ## Claimed reserved domains
-No reserved domains have been claimed yet.
+1. blitz.js
 
 ## Unclaimed reserved domains
 1. abbrev.js
