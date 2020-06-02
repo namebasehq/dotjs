@@ -1,5 +1,5 @@
 # dotjs
-This repo is for the .JS TLD on the Handshake DNS protocol. You can buy a .JS domain at [gateway.io](https://gateway.io). If you maintain a well-known NPM package, submit a PR to get your .js domain for free.
+This repo is for the .JS TLD on the Handshake DNS protocol. You can buy a .JS domain at [gateway.io](https://gateway.io). If you maintain a well-known NPM package, submit a PR (add your .js domain to the Claimed domains section and remove it from the reserved domains section if it's there) to get your .js domain for free.
 
 You can use a .JS domain for non-javascript related websites, but .JS is meant to serve the JavaScript community. Hence why JS package maintainers can claim their domains for free.
 
@@ -10,6 +10,7 @@ Our goal is to create a separate governance committee who can run this TLD. An e
 
 ## Claimed reserved domains
 1. blitz.js
+2. next.js
 
 ## Unclaimed reserved domains
 1. abbrev.js
