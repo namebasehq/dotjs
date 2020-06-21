@@ -12,6 +12,7 @@ Our goal is to create a separate governance committee who can run this TLD. An e
 1. blitz.js
 2. next.js
 3. surabaya.js
+4. node-fetch.js
 
 ## Unclaimed reserved domains
 1. abbrev.js
@@ -573,7 +574,6 @@ Our goal is to create a separate governance committee who can run this TLD. An e
 1. no-case.js
 1. noble.js
 1. node-addon-api.js
-1. node-fetch.js
 1. node-forge.js
 1. node-gyp-build.js
 1. node-gyp.js
