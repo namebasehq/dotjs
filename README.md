@@ -948,3 +948,4 @@ Our goal is to create a separate governance committee who can run this TLD. An e
 1. yosay.js
 1. zone.js
 1. zrender.js
+1. solid.js
